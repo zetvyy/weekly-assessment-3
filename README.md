@@ -32,6 +32,8 @@ oke berikutlah kode untuk inheritence
 
 Jangan lupa agar bisa berperilaku, botol kaca itu harus di instansiasi ya classnya!
 
+![image](https://user-images.githubusercontent.com/76480903/139464677-0a536f2b-8a32-4f8a-a62e-c9110cff0f93.png)
+
 
 
 
